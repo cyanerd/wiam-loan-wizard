@@ -1,0 +1,17 @@
+node_modules/
+dist/
+build/
+coverage/
+.DS_Store
+.idea/
+.vscode/
+*.log
+.env
+.env.local
+.env.*.local
+!.env.example
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+vitest.config.js
+vitest.config.d.ts
